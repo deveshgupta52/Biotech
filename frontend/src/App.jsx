@@ -35,7 +35,7 @@ function App() {
 
             
           </Routes>
-             <Topheader />
+             {/* <Topheader />
              
              <Hero />
              <Marquee />
@@ -44,7 +44,7 @@ function App() {
              <Mentors />
              <Agriculture />
              <Award />
-             <Footer />
+             <Footer /> */}
   
 
           </BrowserRouter>

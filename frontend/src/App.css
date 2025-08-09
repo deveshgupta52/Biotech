@@ -26,3 +26,7 @@
     height: 89.5vh;
     background-color: green;
 }
+.dash>*{
+    height: 100%;
+    overflow: auto;
+}
